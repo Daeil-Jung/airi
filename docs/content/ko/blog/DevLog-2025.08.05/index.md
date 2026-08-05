@@ -340,7 +340,7 @@ AIRI 설정이 지금 꽤 복잡하다는 걸 압니다 (그래도 코드 구조
 이른바 `i18n` 또는 로케일 파일을 저희 거대한 모노레포 안의 전용 패키지로 분리했습니다.
 
 새 로케일을 추가하거나 번역을 추가·수정해 기여하실 때는 먼저
-https://github.com/moeru-ai/airi/tree/main/packages/i18n/src/locales로 가 주세요.
+[https://github.com/moeru-ai/airi/tree/main/packages/i18n/src/locales](https://github.com/moeru-ai/airi/tree/main/packages/i18n/src/locales)로 가 주세요.
 
 <img class="light" src="/en/blog/DevLog-2025.08.05/assets/airi-packages-i18n-light.avif" alt="packages/i18n 라이트 모드" />
 <img class="dark" src="/en/blog/DevLog-2025.08.05/assets/airi-packages-i18n-dark.avif" alt="packages/i18n 다크 모드" />
@@ -509,7 +509,7 @@ v0.7 개발 초기에 저는 ASR/STT 파이프라인의 추론 엔진 구현으�
 그래서 최신 릴리스에서 문제를 겪으신다면, `main` 브랜치의 최신 빌드를 받아 문제가 고쳐졌는지
 언제든 확인해 보실 수 있습니다.
 
-나이틀리 빌드는 https://github.com/moeru-ai/airi/actions/workflows/release-tamagotchi.yml에서 찾을 수 있습니다.
+나이틀리 빌드는 [https://github.com/moeru-ai/airi/actions/workflows/release-tamagotchi.yml](https://github.com/moeru-ai/airi/actions/workflows/release-tamagotchi.yml)에서 찾을 수 있습니다.
 
 ## 마치기 전에...
 
